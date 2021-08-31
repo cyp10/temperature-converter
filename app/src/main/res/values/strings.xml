@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="btnConvert">Convert</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hint">Input Temperature</string>
+    <string name="radCtoF">Convert Celsius to Fahrenheit</string>
+    <string name="radFtoC">Convert Fahrenheit to Celsius</string>
+    <string name="txtTitle">Temperature Converter</string>
+</resources>
